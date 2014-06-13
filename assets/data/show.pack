@@ -1,0 +1,11 @@
+show.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+splash
+  rotate: false
+  xy: 2, 2
+  size: 640, 1136
+  orig: 640, 1136
+  offset: 0, 0
+  index: -1
